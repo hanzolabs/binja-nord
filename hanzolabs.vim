@@ -49,6 +49,7 @@ let colors_name = "hanzolabs"
     hi ColorColumn ctermbg=red ctermfg=NONE cterm=NONE
     hi LineNr ctermbg=NONE ctermfg=black cterm=NONE
     hi Comment ctermbg=NONE ctermfg=black cterm=NONE
+    hi Visual ctermbg=yellow ctermfg=black cterm=bold
 
 hi link Number Constant
 
