@@ -46,6 +46,7 @@ let colors_name = "hanzolabs"
     hi WarningMsg ctermbg=NONE ctermfg=red cterm=NONE
     hi WildMenu ctermbg=darkyellow ctermfg=black cterm=NONE
     hi htmlTagName ctermbg=NONE ctermfg=darkmagenta cterm=bold
+    hi ColorColumn ctermbg=red ctermfg=NONE cterm=NONE
 
 hi link Number Constant
 
