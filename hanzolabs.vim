@@ -29,8 +29,8 @@ let colors_name = "hanzolabs"
     hi SpellCap ctermbg=green ctermfg=black cterm=NONE
     hi Statement ctermbg=NONE ctermfg=green cterm=bold
     hi StatusLine ctermbg=blue ctermfg=cyan cterm=bold
-    hi StatusLineNC ctermbg=darkmagenta ctermfg=magenta cterm=NONE
-    hi StatusLineTerm ctermbg=blue ctermfg=cyan cterm=bold
+    hi StatusLineNC ctermbg=blue ctermfg=black cterm=NONE
+    hi StatusLineTerm ctermbg=cyan ctermfg=black cterm=NONE
     hi StatusLineTermNC ctermbg=darkmagenta ctermfg=magenta cterm=NONE
     hi String ctermbg=NONE ctermfg=darkyellow cterm=NONE
     hi TabLine ctermbg=blue ctermfg=cyan cterm=bold
